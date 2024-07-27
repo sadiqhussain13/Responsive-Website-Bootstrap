@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background: #af37ca;
+}
+
+.navbar{
+    padding-top: 10px !important;
+}
+
+.navbar-nav.ms-auto {
+    justify-content: right;
+  }
+  
+  @media (max-width: 80rem) {
+    .navbar-nav.ms-auto {
+      flex-direction: column;
+      align-items: flex-end;
+    }
+  }
+
+.nav-item{
+    margin-left: 40px;
+    margin-bottom: 5px;
+}
+
+.nav-link{
+    color: #ffffff !important;
+    font-size: 20px !important;
+    padding: 0 0 5px 0 !important;
+    display: unset !important;
+}
+.fa-bars{
+    color: #ffffff;
+    font-size: 30px !important;
+}
+
+.navbar-toggler{
+    border: 0 !important;
+    box-shadow: none !important;
+    padding: initial !important;
+}
+
+.active-link{
+    border-bottom: 2px solid #ffffff;
+}
+.nav-link:hover{
+    border-bottom: 2px solid #ffffff;
+}
+
+.banner{
+    margin-top: 8%;
+    color: #ffffff;
+}
+.banner h1{
+    margin: 80px 0 50px;
+    font-weight: 600;
+    font-size: 50px;
+}
+.banner a{
+    padding: 12px;
+    width: 150px;
+    display:inline-block;
+    background: #af37ca;
+    text-decoration: none !important;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+}
+.banner a:hover{
+    color: #6e1782;
+}
+.banner img{
+    max-height: 500px;
+}
+.express-btn{
+    background: #ffffff !important;
+    color: black !important;
+    margin-right: 5px;
+}
+
+/*------- Services -------*/
+.services{
+    margin: 70px 0;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.subtitle{
+    text-align: center;
+    margin-bottom: 70px;
+    font-size: 15px;
+}
