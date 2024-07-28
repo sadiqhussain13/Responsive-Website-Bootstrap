@@ -17,7 +17,7 @@ A responsive website built using Bootstrap, designed to be user-friendly and vis
 **Getting Started**
 -------------------
 
-1. Clone this repository to your local machine using `git clone https://github.com/sadiqhussain13/Responsive-website-Bootstrap.git`
+1. Clone this repository to your local machine using `git clone https://github.com/sadiqhussain13/Responsive-Website-Bootstrap.git`
 2. Open the website in your web browser by navigating to your localhost
 
 **Contributing**
