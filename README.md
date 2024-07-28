@@ -30,19 +30,19 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License.
 
-** Shields**
+**Shields**
 ---------
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-blue.svg)](https://getbootstrap.com/)
 [![Responsive Design](https://img.shields.io/badge/Responsive-Design-green.svg)](https://www.w3schools.com/css/css_rwd_intro.asp)
 
-** Icons **
+**Icons**
 ---------
 
 [![Font Awesome](https://img.shields.io/badge/Font%20Awesome-5.15.3-orange.svg)](https://fontawesome.com/)
 
-** Dependencies **
+**Dependencies**
 ----------------
 
 * Bootstrap 5.3.3
